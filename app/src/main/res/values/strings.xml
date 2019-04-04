@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CardValidatorDemo</string>
+    <string name="click_me">CLICK ME</string>
+    <string name="enter_card_number">Enter card number</string>
+</resources>
